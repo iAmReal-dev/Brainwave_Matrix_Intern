@@ -215,7 +215,7 @@ function App() {
                   transition={{ delay: 0.2 }}
                   className="text-center mb-10"
                 >
-                  <h1 className="text-4xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-700 mb-4">
+                  <h1 className="text-4xl md:h-14 mb-4 md:m-0 md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-700 ">
                     Decentralized Voting Platform
                   </h1>
                   <p className="text-gray-600 max-w-2xl mx-auto">
