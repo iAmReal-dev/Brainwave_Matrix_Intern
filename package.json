@@ -11,7 +11,9 @@
     "react-icons": "^5.3.0",
     "react-router-dom": "^6.14.2",
     "react-scripts": "^5.0.1",
-    "react-app-rewired": "^2.2.1"
+    "react-app-rewired": "^2.2.1",
+    "chart.js": "^4.4.5",
+    "react-chartjs-2": "^5.2.0"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
@@ -24,7 +26,9 @@
     "@openzeppelin/contracts": "^5.1.0",
     "@types/chai": "^4.3.20",
     "@types/mocha": "^10.0.9",
-    "chai": "^4.5.0"
+    "chai": "^4.5.0",
+    "ajv": "^8.17.1",
+    "ajv-keywords": "^5.1.0"
   },
   "scripts": {
     "start": "react-app-rewired start",
@@ -50,6 +54,9 @@
     "glob": "^10.4.5",
     "svgo": "^3.3.2",
     "terser-webpack-plugin": "^5.3.10",
-    "ajv": "^8.17.1"
+    "ajv": "^8.17.1",
+    "ajv-keywords": "^5.1.0",
+    "schema-utils": "^4.2.0",
+    "eslint": "^9.12.0"
   }
 }
