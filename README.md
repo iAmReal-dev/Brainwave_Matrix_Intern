@@ -1,4 +1,4 @@
-<h1>Decentralized Voting DApp</h1>h1> 
+<h1>Decentralized Voting DApp</h1>
 
 <p>A decentralized voting application built with ReactJS, Solidity, and Tailwind CSS.</p>
 Setup
